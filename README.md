@@ -7,15 +7,13 @@
 ## 🚀 About Me
 
 I'm a software engineer in training who loves working at the intersection of **AI, web development, and data systems**.  
-From developing full-stack applications to integrating machine learning pipelines, I enjoy solving problems through code.
-
-C
+From developing full-stack applications to integrating machine learning pipelines, I am always open to learning new skills.
 
 ## 🧰 Technical Skills
 
-**Languages:** Python, Java, C, JavaScript, HTML/CSS, SQL  
-**Frameworks & Tools:** React.js, Node.js, Express.js, Next.js, MongoDB, Tailwind CSS, PostgreSQL, OpenCV, PyTorch, Scikit-Learn, LangChain, YOLOv8  
-**Platforms:** Google Cloud Platform, Git, IntelliJ, VS Code, Eclipse, Jira  
+**Languages:** Python, JavaScript, Java, C, HTML/CSS, SQL  
+**Frameworks & Tools:** React.js, Node.js, Express.js, Next.js, MongoDB, Tailwind CSS, PostgreSQL, OpenCV, PyTorch, Scikit-Learn, LangChain 
+**Platforms:** Google Cloud Platform, Git, IntelliJ, VS Code, Jira  
 
 ---
 
@@ -26,5 +24,3 @@ C
 💻 **GitHub:** [github.com/bhargavjakkaraju](https://github.com/bhargavjakkaraju)
 
 ---
-
-⭐ *“Code is not just logic — it’s creativity structured through discipline.”*  
