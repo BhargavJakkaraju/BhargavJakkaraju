@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhargav Jakkaraju
 
-🎓 **Software Engineering Student** at **San Jose State University**
+🎓 **Software Engineering Student** at **San Jose State University** 
 💻 Passionate about building intelligent, scalable software and leveraging AI to solve real-world problems.  
 📍 Based in San Jose, CA | Open to Software Engineering & AI/ML Internship Opportunities
 
