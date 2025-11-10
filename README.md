@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhargav Jakkaraju
+# 👋 Hi, I'm Bhargav
 
 🎓 **Software Engineering Student** at **San Jose State University**    
 💻 Passionate about building intelligent, scalable software and leveraging AI to solve real-world problems.  
