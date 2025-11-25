@@ -17,9 +17,11 @@ From developing full-stack applications to integrating machine learning pipeline
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 📫 **Email:** [bhargav.jakkaraju@sjsu.edu](mailto:bhargav.jakkaraju@sjsu.edu)  
-💼 **LinkedIn:** [linkedin.com/in/bhargavjakkaraju06](https://linkedin.com/in/bhargavjakkaraju06) 
+💼 **LinkedIn:** [linkedin.com/in/bhargavjakkaraju06](https://linkedin.com/in/bhargavjakkaraju06)
+🌐 **Website:** [bhargavjakkaraju.vercel.app](https://bhargavjakkaraju.vercel.app)
+
 
 ---
