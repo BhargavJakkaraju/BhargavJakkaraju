@@ -12,7 +12,8 @@ From developing full-stack applications to integrating machine learning pipeline
 ## 🧰 Technical Skills
 
 **Languages:** Python, JavaScript, Java, C, HTML/CSS, SQL  
-**Frameworks & Tools:** React.js, Node.js, Express.js, Next.js, MongoDB, Tailwind CSS, PostgreSQL, OpenCV, PyTorch, Scikit-Learn, LangChain 
+**Frameworks & Tools:** React.js, Node.js, Express.js, Next.js, MongoDB, Tailwind CSS, PostgreSQL, OpenCV, PyTorch, Scikit-Learn, LangChain
+
 **Platforms:** Google Cloud Platform, Git, IntelliJ, VS Code, Jira  
 
 ---
