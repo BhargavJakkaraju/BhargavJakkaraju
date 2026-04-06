@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-💻 SWE Intern @ Geico | June 2026 - August 2026
-💻 SDE Intern @ eAlliance Corporation | Mau 2025 - August 2025
+💻 SWE Intern @ Geico | June 2026 - August 2026                  
+💻 SDE Intern @ eAlliance Corporation | May 2025 - August 2025
 🎓 B.S. in Software Engineering @ San Jose State University 
 
 ## 🧰 Technical Skills
