@@ -1,13 +1,10 @@
 # 👋 Hi, I'm Bhargav
 
-🎓 **Software Engineering Student** at **San Jose State University**    
-💻 Passionate about building intelligent, scalable software and leveraging AI to solve real-world problems.  
-📍 Based in San Jose, CA | Open to Software Engineering & AI/ML Internship Opportunities
-
 ## 🚀 About Me
 
-I'm a software engineer in training who loves working at the intersection of **AI, web development, and data systems**.  
-From developing full-stack applications to integrating machine learning pipelines, I am always open to learning new skills.
+💻 SWE Intern @ Geico | June 2026 - August 2026
+💻 SDE Intern @ eAlliance Corporation | Mau 2025 - August 2025
+🎓 B.S. in Software Engineering @ San Jose State University 
 
 ## 🧰 Technical Skills
 
