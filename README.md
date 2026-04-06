@@ -38,7 +38,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-## Feel Free To Reach Out!
+## Connect With Me!
 
 📫 **Email:** [bhargav.jakkaraju@sjsu.edu](mailto:bhargav.jakkaraju@sjsu.edu)  
 💼 **LinkedIn:** [linkedin.com/in/bhargavjakkaraju06](https://linkedin.com/in/bhargavjakkaraju06)                                        
