@@ -41,7 +41,7 @@
 
 ## Connect With Me!
 
-📫 **Email:** [bhargav.jakkaraju@sjsu.edu](mailto:bhargav.jakkaraju@sjsu.edu)  
+📫 - [Email](mailto:bhargav.jakkaraju@sjsu.edu)
 💼 **LinkedIn:** [linkedin.com/in/bhargavjakkaraju06](https://linkedin.com/in/bhargavjakkaraju06)                                        
 🖥️ **My Website** [bhargavjakkaraju.vercell.app](https://bhargavjakkaraju.vercel.app)
 
