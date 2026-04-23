@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Bhargav
 
-📍 San Jose, California      
-💭 Interested in Distributed Systems, Applied AI/ML, Backend Systems, and Fullstack Development
+✦ San Jose, California      
+✦ Interested in Distributed Systems, Applied AI/ML, Backend Systems, and Fullstack Development
 
-## 🚀 About Me
+## ✦ Experience
 
-💼 SWE Intern @ Geico | June 2026 - August 2026                  
-💼 SDE Intern @ eAlliance Corporation | May 2025 - August 2025               
-🎓 B.S. in Software Engineering @ San Jose State University 
+✦ SWE Intern @ Geico | June 2026 - August 2026                  
+✦ SDE Intern @ eAlliance Corporation | May 2025 - August 2025               
+✦ B.S. in Software Engineering @ San Jose State University 
 
-## 🧰 Technical Skills
+## ✦ Technical Skills
 
 **Languages/Frameworks:**
 
@@ -41,9 +41,9 @@
 
 ## Connect With Me!
 
-📫 - [Email](mailto:bhargav.jakkaraju@sjsu.edu)                              
-💼 - [LinkedIn](https://linkedin.com/in/bhargavjakkaraju06)                                                   
-🖥️ - [Website](https://bhargavjakkaraju.vercel.app)
+✦ - [Email](mailto:bhargav.jakkaraju@sjsu.edu)                              
+✦ - [LinkedIn](https://linkedin.com/in/bhargavjakkaraju06)                                                   
+✦ - [Website](https://bhargavjakkaraju.vercel.app)
 
 
 
