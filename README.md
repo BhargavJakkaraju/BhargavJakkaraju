@@ -43,7 +43,6 @@
 
 ✦ - [Email](mailto:bhargav.jakkaraju@sjsu.edu)                              
 ✦ - [LinkedIn](https://linkedin.com/in/bhargavjakkaraju06)                                                   
-✦ - [Website](https://bhargavjakkaraju.vercel.app)
 
 
 
