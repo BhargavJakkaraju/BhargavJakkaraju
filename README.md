@@ -6,7 +6,7 @@
 ## ✦ Experience
 
 ➤ SWE Intern @ Geico | June 2026 - August 2026                  
-➤ SDE Intern @ eAlliance Corporation | Jun 2025 - August 2025        
+➤ Undergraduate Researcher @ SJSU Office of Machine Learning | December 2025 - May 2026        
 ➤ B.S. in Software Engineering @ San Jose State University 
 
 ## ✦ Technical Skills
