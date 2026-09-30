@@ -22,7 +22,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
