@@ -1,4 +1,4 @@
-#  👋 Hi, I'm Bhargav!
+# Hi, I'm Bhargav!
 
 📍 San Jose, California      
 💭 Interested in Applied AI/ML, Distributed Systems, Backend Systems, and Fullstack Development
